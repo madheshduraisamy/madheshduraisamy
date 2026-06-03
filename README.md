@@ -1,51 +1,29 @@
-# 👋 Hi, I'm Madhesh
+<h1 align="center">Madhesh P D</h1>
+<h3 align="center">Full Stack Developer · AWS Cloud & Backend Engineer</h3>
 
-🚀 Full Stack Developer | AWS Cloud & Backend Engineer  
-⚛️ React.js • Node.js • Serverless • AWS  
-📍 Trichy, Tamil Nadu, India  
-
----
-
-## 🛠 Tech Stack
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+<p align="center">
+  📧 <a href="mailto:madhesh.suguna76@gmail.com">madhesh.suguna76@gmail.com</a> &nbsp;|&nbsp;
+  💼 <a href="https://www.linkedin.com/in/madhesh-d-9b1b42251">LinkedIn</a> &nbsp;|&nbsp;
+  🌐 <a href="https://madhesh.co.in">Portfolio</a> &nbsp;|&nbsp;
+</p>
 
 ---
 
-## 💼 Experience
+### 👨‍💻 About
 
-🔹 Full Stack Developer @ Pitfall Pvt Ltd  
-Built and deployed scalable AWS applications using Lambda, API Gateway, Cognito, SQS, EC2, and React.js.
-
-🔹 Web Developer Intern @ Code Bind  
-Developed full-stack projects using React.js, Node.js, MySQL, and PostgreSQL.
+Full Stack Developer with hands-on production experience shipping scalable web applications on AWS. I own the full delivery lifecycle — from database schema to CDN deployment — across 4 concurrent products in a fast-paced startup.
 
 ---
 
-## 🚀 Projects
+### 🛠 Tech Stack
 
-- Task Management System
-- Agri-Bot AI Assistant
-- Car Rental Platform
-- AWS Serverless APIs
+| Layer | Technologies |
+|---|---|
+| **Frontend** | React.js, JavaScript (ES6+), TypeScript, HTML5, CSS3 |
+| **Backend** | Node.js, Express.js, RESTful APIs, Serverless |
+| **AWS** | EC2, Lambda, API Gateway, Amplify, S3, CloudFront, Route 53, Cognito, SQS, DynamoDB, IAM |
+| **Databases** | PostgreSQL, MySQL, MongoDB, DynamoDB |
+| **DevOps** | Git, GitHub, CI/CD (Amplify) |
 
----
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madheshduraisamy&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madheshduraisamy&layout=compact&theme=tokyonight)
-
----
-
-## 🔗 Connect
-
-📧 madhesh.suguna76@gmail.com  
-💼 [LinkedIn](https://linkedin.com/in/madhesh-d-9b1b42251)  
-🌐 [Portfolio](https://madhesh.co.in)
